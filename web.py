@@ -23,6 +23,8 @@ def type_text(text, delay=0.1):
         typed_text += char
         placeholder.markdown(f"### {typed_text}")  # Tingkat heading bisa disesuaikan
         time.sleep(delay)
+
+
 # ----------End Fungsi Efek Typing----------
 
 # ----------Start Content----------
